@@ -1,0 +1,23 @@
+{
+  "name": "switchbyte.nl",
+  "version": "1.0.0",
+  "description": "Switchbyte landing page.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/switchbyte/switchbyte.nl.git"
+  },
+  "keywords": [],
+  "author": "Switchbyte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/switchbyte/switchbyte.nl/issues"
+  },
+  "homepage": "https://github.com/switchbyte/switchbyte.nl#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
